@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sh15935! I have a background in software engineering, web and app development, and digital product creation.
-
-
+Cybersecurity engineering student | GRC · Risk Management · ISO 27001 · NIS2 | Seeking 6-month PFE from Feb 2027
